@@ -5,3 +5,5 @@ echo "# Arbitrage-first-build" >> README.md
   git branch -M main
   git remote add origin https://github.com/Tekki8713/Arbitrage-first-build.git
   git push -u origin main
+  git nodejs packages 
+  git arbitrage trading packages 
